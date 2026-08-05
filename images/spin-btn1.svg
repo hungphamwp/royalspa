@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <circle cx="100" cy="100" r="58" fill="#fdfbf7" stroke="#d0b483" stroke-width="7"/>
+  <polygon points="100,16 78,70 122,70" fill="#d0b483"/>
+  <text x="100" y="112" text-anchor="middle" font-family="Arial, Helvetica, sans-serif"
+        font-size="30" font-weight="bold" fill="#d0b483">QUAY</text>
+</svg>

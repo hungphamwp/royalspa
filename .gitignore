@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large archive files
+Archive.zip
+*.zip
+
+# Backup/draft files
+_royalspa_wip.html
+index13c1.original.html
+index13c1.pre-gold.html
+index13c1.inlined.html
+
+# Source image folders (nếu ảnh đã được nhúng vào HTML)
+_nguon-anh/
+
+# Node modules (nếu có)
+node_modules/
